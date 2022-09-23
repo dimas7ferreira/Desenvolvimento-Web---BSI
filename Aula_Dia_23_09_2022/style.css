@@ -14,3 +14,22 @@
     background-color: lightblue;
     border: 8px solid blue;
 }
+.div1{
+    background-color: lightblue;
+    border-left: 7px solid lightcoral;
+    width: 100%;
+ 
+}
+.divfora{
+    border: 10px dotted purple;
+    margin: 0%
+    width: 100%;
+
+}
+.imgborda{
+    border: 20px double rgb(255, 3, 255);
+    
+}
+img{
+    height: 300px;
+}
